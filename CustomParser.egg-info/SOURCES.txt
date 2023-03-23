@@ -1,0 +1,5 @@
+setup.py
+CustomParser.egg-info/PKG-INFO
+CustomParser.egg-info/SOURCES.txt
+CustomParser.egg-info/dependency_links.txt
+CustomParser.egg-info/top_level.txt
